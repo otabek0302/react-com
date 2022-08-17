@@ -1,0 +1,65 @@
+{
+     "posts": [
+          {
+               "author": "Otabek Amonov",
+               "id": 1,
+               "title": "delectus aut autem",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 2,
+               "title": "quis ut nam facilis et officia qui",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 3,
+               "title": "fugiat veniam minus",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 4,
+               "title": "et porro tempora",
+               "dated": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 5,
+               "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 6,
+               "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 7,
+               "title": "illo expedita consequatur quia in",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 13,
+               "title": "et doloremque nulla",
+               "date": "03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 14,
+               "title": "repellendus sunt dolores architecto voluptatum",
+               "dated":"03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 15,
+               "title": "ab voluptatum amet voluptas",
+               "dated":"03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 16,
+               "title": "accusamus eos facilis sint et aut voluptatem",
+               "dated":"03-02-2002"
+          }, {
+               "author": "Otabek Amonov",
+               "id": 17,
+               "title": "quo laboriosam deleniti aut qui",
+               "dated":"03-02-2002"
+          }
+     ]
+}
